@@ -1,2 +1,0 @@
-# DataAnalyticsLaboratory
-IPYNBs and stuffs.
