@@ -1,2 +1,2 @@
 # DataAnalyticsLaboratory
-Exercises executed at the lab will be shared here.
+This repository features the set of exercises executed at the Data Analytics Laboratory (a practical course included in VII Semester), conducted in the fall of 2018.
